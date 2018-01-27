@@ -1,0 +1,9 @@
+{
+  "name": "ezffmpeg",
+  "version": "0.0.0",
+  "description": "EZFFMPEG",
+  "main": "app.js",
+  "author": {
+    "name": "Hirad"
+  }
+}
